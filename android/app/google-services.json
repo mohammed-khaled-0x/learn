@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "367126547332",
+    "project_id": "deutsch-app-4e26d",
+    "storage_bucket": "deutsch-app-4e26d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367126547332:android:702e8b4b69840ae82b2bd1",
+        "android_client_info": {
+          "package_name": "com.deutsch.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD58_6GYoiZljv97GV2hhNH-cchetp8-3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
